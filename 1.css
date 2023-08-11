@@ -3,7 +3,7 @@ body:hover {
   transition: background-color 1s;
 }
 .img12 {
-    widdth: 200%;
+    width: 200%;
     height: 100%;
     border:1px;
     border-radius:10px
